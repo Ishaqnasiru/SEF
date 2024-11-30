@@ -7,4 +7,8 @@ void train() {
 
 void predict() {
     printf("predict\n");
+<<<<<<< HEAD
+=======
+    printf("The second feature is added\n");
+>>>>>>> secondFeature
 }
